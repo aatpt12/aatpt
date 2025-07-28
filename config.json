@@ -15,7 +15,7 @@ Enter{
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/tele-@exhxx"
+          "path": "/exhxx"
         }
       }
     }
