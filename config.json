@@ -1,4 +1,4 @@
-Enter{
+{
   "inbounds": [
     {
       "port": 8080,
@@ -22,8 +22,7 @@ Enter{
   ],
   "outbounds": [
     {
-      "protocol": "freedom",
-      "settings": {}
+      "protocol": "freedom"
     }
   ]
 }
