@@ -6,7 +6,7 @@ Enter{
       "settings": {
         "clients": [
           {
-            "id": "12345678-exhxx-12345678-exhxx-123456",
+            "id": "7788d2c9-27a6-4039-a943-e41138954bde",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@ Enter{
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/exhxx"
+          "path": "/tele-@exhxx"
         }
       }
     }
